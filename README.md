@@ -29,7 +29,7 @@ This will install and compile all the dependencies for the project.
 
 Able to execute the application for 10,000 nodes for different topology and algorithm.
 
-## Project Status
+## Topologies
 
 Implemented all the topologies listed below for gossip and push sum algorithm -
 
